@@ -2,8 +2,8 @@
 
 Makes the basic HTML version of Gmail a bit nicer.
 
-###Original
+### Original
 ![Original Gmail](http://i.imgur.com/PNOOsAN.png)
 
-###Updated
+### Updated
 ![Updated Gmail](http://i.imgur.com/m8dfQIw.png)
